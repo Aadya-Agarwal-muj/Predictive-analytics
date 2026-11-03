@@ -1,0 +1,17 @@
+check,result
+Rows,92
+Columns,5
+Missing values (total),0
+Duplicated rows,0
+Duplicated day ids,0
+Rows with identical lim/y values,4
+lim1 values only 0/1,True
+lim2 values only 0/1,True
+y1 non-negative,True
+y1 whole numbers,True
+y1 zero counts,0
+y2 non-negative,True
+y2 whole numbers,True
+y2 zero counts,0
+y1 IQR outliers,1
+y2 IQR outliers,4

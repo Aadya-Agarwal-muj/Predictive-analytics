@@ -1,0 +1,17 @@
+,value
+y2 mean,20.22826086956522
+y2 variance,72.63963210702342
+Poisson Pearson chi2,157.84000306505132
+Poisson residual df,88.0
+Pearson dispersion (chi2/df),1.7936363984664923
+Deviance dispersion (dev/df),1.8255283694408435
+Cameron-Trivedi alpha,0.033741890060050024
+Cameron-Trivedi t,3.240848136866022
+Cameron-Trivedi p (one-sided),0.0008327299712782048
+NB2 alpha (MLE),0.03699297145257934
+LR statistic (NB2 vs Poisson),16.763770412027043
+LR p-value (boundary-corrected),2.116695524976361e-05
+Poisson AIC,607.7567201215264
+NB2 AIC,592.9929497094994
+Poisson BIC,617.8438744297226
+NB2 BIC,605.6018925947446
