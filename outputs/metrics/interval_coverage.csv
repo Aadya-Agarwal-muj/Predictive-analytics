@@ -1,0 +1,5 @@
+scheme,model,90% PI coverage,90% PI mean width
+Blocked 5-fold,NegBin (NB2),0.8801169590643274,19.184795321637427
+Blocked 5-fold,Poisson GLM,0.7619883040935672,14.535087719298247
+Repeated stratified 5-fold x20,NegBin (NB2),0.8842105263157894,19.17985380116959
+Repeated stratified 5-fold x20,Poisson GLM,0.7708771929824562,14.588187134502924
